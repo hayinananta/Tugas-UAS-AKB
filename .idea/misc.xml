@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/hayin/AndroidStudioProjects/dailylife_10119005/app/src/main/res/drawable-v24/ic_empty.xml" value="0.1935" />
+        <entry key="..\:/Users/hayin/AndroidStudioProjects/dailylife_10119005/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.2985" />
+        <entry key="..\:/Users/hayin/AndroidStudioProjects/dailylife_10119005/app/src/main/res/drawable/ic_baseline_add_24.xml" value="0.2985" />
+        <entry key="..\:/Users/hayin/AndroidStudioProjects/dailylife_10119005/app/src/main/res/layout/activity_add_daily.xml" value="0.3484375" />
+        <entry key="..\:/Users/hayin/AndroidStudioProjects/dailylife_10119005/app/src/main/res/layout/activity_main.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/hayin/AndroidStudioProjects/dailylife_10119005/app/src/main/res/layout/activity_splash_screen.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/hayin/AndroidStudioProjects/dailylife_10119005/app/src/main/res/layout/activity_update_daily.xml" value="0.3484375" />
+        <entry key="..\:/Users/hayin/AndroidStudioProjects/dailylife_10119005/app/src/main/res/layout/app_bar_main.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/hayin/AndroidStudioProjects/dailylife_10119005/app/src/main/res/layout/content_main.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/hayin/AndroidStudioProjects/dailylife_10119005/app/src/main/res/layout/daily_row.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/hayin/AndroidStudioProjects/dailylife_10119005/app/src/main/res/layout/fragment_about.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/hayin/AndroidStudioProjects/dailylife_10119005/app/src/main/res/layout/fragment_daily.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/hayin/AndroidStudioProjects/dailylife_10119005/app/src/main/res/layout/fragment_home.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/hayin/AndroidStudioProjects/dailylife_10119005/app/src/main/res/layout/fragment_profile.xml" value="0.3484375" />
+        <entry key="..\:/Users/hayin/AndroidStudioProjects/dailylife_10119005/app/src/main/res/layout/viewpager_item.xml" value="0.3484375" />
+        <entry key="..\:/Users/hayin/AndroidStudioProjects/dailylife_10119005/app/src/main/res/menu/activity_main_drawer.xml" value="0.18541666666666667" />
+        <entry key="..\:/Users/hayin/AndroidStudioProjects/dailylife_10119005/app/src/main/res/menu/main.xml" value="0.18541666666666667" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
