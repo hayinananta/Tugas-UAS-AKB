@@ -56,7 +56,7 @@ Saya seorang yang sangat tertarik dengan dunia Photography dan UI/UX 💖. Saya 
 
     <androidx.cardview.widget.CardView
         android:layout_width="match_parent"
-        android:layout_height="170dp"
+        android:layout_height="wrap_content"
         android:layout_below="@+id/card_photo"
         android:layout_gravity=""
         android:layout_marginLeft="20dp"
@@ -105,6 +105,15 @@ Saya seorang yang sangat tertarik dengan dunia Photography dan UI/UX 💖. Saya 
                 android:textAlignment="center"
                 android:textColor="@color/white"
                 android:textSize="18dp" />
+
+            <Button
+                android:id="@+id/btn_keluar"
+                android:layout_margin="20dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Keluar"
+                android:backgroundTint="@color/black"/>
+
         </LinearLayout>
 
 

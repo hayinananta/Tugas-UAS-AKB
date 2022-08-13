@@ -6,8 +6,17 @@
         <entry key="..\:/Users/hayin/AndroidStudioProjects/dailylife_10119005/app/src/main/res/drawable-v24/ic_empty.xml" value="0.1935" />
         <entry key="..\:/Users/hayin/AndroidStudioProjects/dailylife_10119005/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.2985" />
         <entry key="..\:/Users/hayin/AndroidStudioProjects/dailylife_10119005/app/src/main/res/drawable/ic_baseline_add_24.xml" value="0.2985" />
+        <entry key="..\:/Users/hayin/AndroidStudioProjects/dailylife_10119005/app/src/main/res/drawable/ic_launcher_background.xml" value="0.294" />
+        <entry key="..\:/Users/hayin/AndroidStudioProjects/dailylife_10119005/app/src/main/res/drawable/ic_menu_camera.xml" value="0.2985" />
+        <entry key="..\:/Users/hayin/AndroidStudioProjects/dailylife_10119005/app/src/main/res/drawable/ic_menu_gallery.xml" value="0.294" />
+        <entry key="..\:/Users/hayin/AndroidStudioProjects/dailylife_10119005/app/src/main/res/drawable/ic_menu_slideshow.xml" value="0.294" />
+        <entry key="..\:/Users/hayin/AndroidStudioProjects/dailylife_10119005/app/src/main/res/drawable/ic_splash.xml" value="0.2985" />
+        <entry key="..\:/Users/hayin/AndroidStudioProjects/dailylife_10119005/app/src/main/res/drawable/side_nav_bar.xml" value="0.294" />
         <entry key="..\:/Users/hayin/AndroidStudioProjects/dailylife_10119005/app/src/main/res/layout/activity_add_daily.xml" value="0.3484375" />
         <entry key="..\:/Users/hayin/AndroidStudioProjects/dailylife_10119005/app/src/main/res/layout/activity_main.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/hayin/AndroidStudioProjects/dailylife_10119005/app/src/main/res/layout/activity_sign_in.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/hayin/AndroidStudioProjects/dailylife_10119005/app/src/main/res/layout/activity_sign_up.xml" value="0.3484375" />
+        <entry key="..\:/Users/hayin/AndroidStudioProjects/dailylife_10119005/app/src/main/res/layout/activity_sign_up_activiy.xml" value="0.358695652173913" />
         <entry key="..\:/Users/hayin/AndroidStudioProjects/dailylife_10119005/app/src/main/res/layout/activity_splash_screen.xml" value="0.358695652173913" />
         <entry key="..\:/Users/hayin/AndroidStudioProjects/dailylife_10119005/app/src/main/res/layout/activity_update_daily.xml" value="0.3484375" />
         <entry key="..\:/Users/hayin/AndroidStudioProjects/dailylife_10119005/app/src/main/res/layout/app_bar_main.xml" value="0.358695652173913" />
